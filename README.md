@@ -2,7 +2,7 @@
 
 Je te mets ça la, ça marche, dans le cas ou je le lance manuellement, j'arrive pas à rediriger vers la bonne url pour le moment au lancement du site
 
-En sachant que j'ai créé un virtual host mvc, sur l'url "mvc/public/home/index" je suis bon.
+En sachant que j'ai créé un virtual host mvc, sur l'url "mvc/public/home/index" je suis bon. (controller home, methode index et la suite de l'url sont les parametres qui sont lus correctement)
 
 Autre truc, je l'ai fait avant que tu mettes les conventions sur les variables et autres, du coup il y a pas grand chose qui est bon à ce niveau là.
 
